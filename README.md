@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **KadeMorton/KadeMorton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey, I'm [Kade] 👋
+# Hey, I'm **Kade** 👋
 
 Welcome to my GitHub profile! I am a passionate technologist, cybersecurity enthusiast, and co-founder and maintainer of Arachne Digital!
 
@@ -34,7 +32,7 @@ You can refer to me using the pronouns **he/him** or **they/them**—both are eq
 
 Arachne Digital is more than just a project; it is a vision for a safer digital future. We are building a collaborative community of cybersecurity experts, developers, and enthusiasts to tackle today's complex threats.
 
-🌐 Explore Arachne Digital: [Website](https://www.arachnedigital.com](https://arachne.digital/) | [GitHub](https://github.com/arachnedigital](https://github.com/arachne-threat-intel)
+🌐 Explore Arachne Digital: [Website](https://arachne.digital/) | [GitHub](https://github.com/arachne-threat-intel)
 
 ## 👥 Let's Collaborate on Building a Safer Digital World
 
@@ -46,8 +44,8 @@ If you want to make a positive impact in the digital realm, consider joining the
 
 Ready to join us in our mission to create a safer digital world?
 
-- 🌐 Explore Arachne Digital's first open source project, Thread: [Website](https://www.arachnedigital.com](https://arachne.digital/thread)
-- 🧑‍💻 Dive into Thread on [GitHub](https://arachne.digital/thread](https://github.com/arachne-threat-intel/thread).
+- 🌐 Explore Arachne Digital's first open source project, Thread: [Website](https://arachne.digital/thread)
+- 🧑‍💻 Dive into Thread on [GitHub](https://github.com/arachne-threat-intel/thread).
 - 💬 Email Arachne Digital on contact[at]arachne[dot]digital to get an invite to our community on Slack and join the conversation.
 
 Together, we can build a more secure digital future. Join the Arachne Digital community today!
@@ -56,8 +54,8 @@ Together, we can build a more secure digital future. Join the Arachne Digital co
 
 📫 If you would like to collaborate, discuss cybersecurity, or have any questions about my projects, feel free to reach out:
 
-- 📧 Email: [kademorton@protonmail.com](mailto:kademorton@protonmail.com
-- 💬 LinkedIn: [Kade Morton](https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/kade-morton-34179283/)
+- 📧 Email: [personal](mailto:kademorton@protonmail.com)
+- 💬 LinkedIn: [professional connections](https://www.linkedin.com/in/kade-morton-34179283/)
 
 ## Let Us Build a Secure Digital World Together
 
