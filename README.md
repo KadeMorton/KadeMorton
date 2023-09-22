@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 🐍 Hey, I'm **Kade** 
+# 🦄 Hey, I'm **Kade** 
 
 Welcome to my GitHub profile! I am a passionate technologist, cybersecurity enthusiast, and co-founder and maintainer of Arachne Digital!
 
@@ -68,7 +68,7 @@ If you would like to collaborate, discuss cybersecurity, or have any questions a
 - 📧 Email: [personal](mailto:kademorton@protonmail.com)
 - 💬 LinkedIn: [professional connections](https://www.linkedin.com/in/kade-morton-34179283/)
 
-## 🌈 Let Us Build a Secure Digital World Together
+## 🐍 Let Us Build a Secure Digital World Together
 
 Join me and the Arachne Digital community in our mission to strengthen cybersecurity. Together, we can make the digital realm a safer place for everyone.
 
