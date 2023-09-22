@@ -13,22 +13,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey, I'm **Kade** 👋
+# 🐍 Hey, I'm **Kade** 
 
 Welcome to my GitHub profile! I am a passionate technologist, cybersecurity enthusiast, and co-founder and maintainer of Arachne Digital!
 
-## About Me
+## 🌠 About Me
 
 - 🔭 I am on a mission to make the digital world safer and more secure.
-- 👨‍💻 As a co-founder, I am dedicated to the development and growth of Arachne Digital, cybersecurity platform that supports multiple open source projects.
+- 🔧 As a co-founder, I am dedicated to the development and growth of Arachne Digital, cybersecurity platform that supports multiple open source projects.
 - 🚀 My work revolves around cyber threat intelligence (CTI), incident response, and building cybersecurity solutions.
 - 💬 Ask me about cybersecurity, CTI, open-source projects, and tech entrepreneurship.
 
-## 😄 Pronouns: He/Him and They/Them
+## 🌱 Pronouns: He/Him and They/Them
 
 You can refer to me using the pronouns **he/him** or **they/them**—both are equally welcomed. Respecting pronouns is an essential part of fostering an inclusive and diverse community. If you have your own pronouns, please feel free to share them too!
 
-## Arachne Digital
+## 🔑 Arachne Digital
 
 Arachne Digital is more than just a project; it is a vision for a safer digital future. We are building a collaborative community of cybersecurity experts, developers, and enthusiasts to tackle today's complex threats.
 
@@ -40,24 +40,35 @@ If you want to make a positive impact in the digital realm, consider joining the
 
 🌐 **Arachne Digital** is a cybersecurity platform aimed at enhancing digital security through practical applications of CTI. We welcome developers, cybersecurity enthusiasts, and anyone interested in cybersecurity to collaborate with us.
 
-### Get Started
+### ➡️ Get Started
 
 Ready to join us in our mission to create a safer digital world?
 
 - 🌐 Explore Arachne Digital's first open source project, Thread: [Website](https://arachne.digital/thread).
-- 🧑‍💻 Dive into Thread on [GitHub](https://github.com/arachne-threat-intel/thread).
+- 🐬 Dive into Thread on [GitHub](https://github.com/arachne-threat-intel/thread).
 - 💬 Email Arachne Digital on contact[at]arachne[dot]digital to get an invite to our community on Slack and join the conversation.
 
 Together, we can build a more secure digital future. Join the Arachne Digital community today!
 
-## Get in Touch
+## ✒️ Hobbies & Projects
 
-📫 If you would like to collaborate, discuss cybersecurity, or have any questions about my projects, feel free to reach out:
+In my spare time, I'm a passionate writer of fantasy and science fiction. Here are some of the writing projects I've had the privilege to work on:
+
+- 👾 **Havens Nebula:** An open-world creation for MozFest 2019 Decentralisation Zone, a collaborative effort to explore new dimensions of open and inclusive spaces.
+- 🌷 **Ereshtar:** An open-world creation for MozFest 2019 Decentralisation Zone, pushing the boundaries of what's possible.
+- ⭕ **Xenshana:** An open-world creation for MozFest 2018 Decentralisation Zone, exploring decentralization's potential.
+- 📜 Currently, I'm actively seeking literary representation for my fantasy manuscript, which is part one of an epic trilogy titled '**The Syndicates of Treylo**.' It's a thrilling adventure that I can't wait to share with the world.
+
+Feel free to connect with me if you share a passion for writing, world-building, or anything related to speculative fiction!
+
+## 📫 Get in Touch
+
+If you would like to collaborate, discuss cybersecurity, or have any questions about my projects, feel free to reach out:
 
 - 📧 Email: [personal](mailto:kademorton@protonmail.com)
 - 💬 LinkedIn: [professional connections](https://www.linkedin.com/in/kade-morton-34179283/)
 
-## Let Us Build a Secure Digital World Together
+## 🌈 Let Us Build a Secure Digital World Together
 
 Join me and the Arachne Digital community in our mission to strengthen cybersecurity. Together, we can make the digital realm a safer place for everyone.
 
