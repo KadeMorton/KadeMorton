@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I am a passionate technologist, cybersecurity enth
 ## 🌠 About Me
 
 - 🔭 I am on a mission to make the digital world safer and more secure.
-- 🔧 As a co-founder, I am dedicated to the development and growth of Arachne Digital, cybersecurity platform that supports multiple open source projects.
+- 🔧 I co-founded Arachne Digital, a cybersecurity platform that supports multiple open source projects.
 - 🚀 My work revolves around cyber threat intelligence (CTI), incident response, and building cybersecurity solutions.
 - 💬 Ask me about cybersecurity, CTI, open-source projects, and tech entrepreneurship.
 
