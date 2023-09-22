@@ -44,7 +44,7 @@ If you want to make a positive impact in the digital realm, consider joining the
 
 Ready to join us in our mission to create a safer digital world?
 
-- 🌐 Explore Arachne Digital's first open source project, Thread: [Website](https://arachne.digital/thread)
+- 🌐 Explore Arachne Digital's first open source project, Thread: [Website](https://arachne.digital/thread).
 - 🧑‍💻 Dive into Thread on [GitHub](https://github.com/arachne-threat-intel/thread).
 - 💬 Email Arachne Digital on contact[at]arachne[dot]digital to get an invite to our community on Slack and join the conversation.
 
